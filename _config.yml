@@ -1,0 +1,14 @@
+name: jasonhendry
+layout_spectrum: 0.013798413850271252
+typography_spectrum: 0.4324063794197882
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.9481017782602355
+  lightness: 0.9022474376565316
+  saturation: 0.7303740886374606
+  rhythmicContrast: 0.06793519783929569
