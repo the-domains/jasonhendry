@@ -1,9 +1,6 @@
-name: jasonhendry
-layout_spectrum: 0.013798413850271252
 typography_spectrum: 0.4324063794197882
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#2C3E50'
@@ -15,10 +12,13 @@ color:
   lightness: 0.9022474376565316
   saturation: 0.7303740886374606
   rhythmicContrast: 0.06793519783929569
-title: ''
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.013798413850271252
 author:
   name: Jason
   url: jasonhendry.com
   email: jasonhendry@gmail.com
-content_rating:
-  adult: false
+name: jasonhendry
+title: iLikeBorscht
