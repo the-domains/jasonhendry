@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jasonhendry]]></title>
-        <description><![CDATA[jasonhendry]]></description>
+        <title><![CDATA[iLikeBorscht]]></title>
+        <description><![CDATA[iLikeBorscht]]></description>
         <link>https://thegrid.ai/jasonhendry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 11:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 05:02:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jasonhendry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Soft Murmur]]></title>
+            <description><![CDATA[<article><h1>A Soft Murmur</h1><p>Mix ambient sounds together to wash away distraction and help you focus or relax</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a0098d0ed7d329dc20460af2fb50fe2/noop.jpg?input=http%3A%2F%2Fasoftmurmur.com%2Fimg%2Fmeta.jpg"></article>]]></description>
+            <link>http://asoftmurmur.com/?v=27455126003f00001c24</link>
+            <guid isPermaLink="false">8577f5ac-f03f-4c27-b1cf-0d4ddf95704e</guid>
+            <pubDate>Mon, 29 Aug 2016 05:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Projections in the Forest]]></title>
             <description><![CDATA[<article><h1>Projections in the Forest</h1><p>Behind the scenes: http://vimeo.com/3hund/behindthescenes The projection mapping "bioluminescent forest" is made by artists Friedrich van Schoor and Tarek Mawad. The artists spent six weeks in the forest fascinated by the silence and natural occurrences in nature, especially the phenomenon "bioluminescence".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a31891eedb71af5d711b6e868598fa4/croprotate.jpg?cropheight=823&cropwidth=1920&degrees=0&input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F501176019_1920x1080.jpg&x=0&y=129"></article>]]></description>
